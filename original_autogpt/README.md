@@ -1,10 +1,14 @@
 # AutoGPT: An Autonomous GPT-4 Experiment
 
+> **⚡ Modified by @ownerroc — Integrated with RocAgent and CFSherlock (Cloudferro)**
+
 [📖 **Documentation**][docs]
 &ensp;|&ensp;
 [🚀 **Contributing**](../../CONTRIBUTING.md)
 
 AutoGPT is an experimental open-source application showcasing the capabilities of modern Large Language Models. This program, driven by GPT-4, chains together LLM "thoughts", to autonomously achieve whatever goal you set. As one of the first examples of GPT-4 running fully autonomously, AutoGPT pushes the boundaries of what is possible with AI.
+
+> **Fork Note:** This version has been modified by [@ownerroc](https://github.com/ownerroc) to integrate with [RocAgent](https://github.com/ivansslo/RocAgent) and [CFSherlock](https://api-sherlock.cloudferro.com) (Cloudferro AI API) — enabling autonomous AI agent operations with open-source LLMs.
 
 <h2 align="center"> Demo April 16th 2023 </h2>
 

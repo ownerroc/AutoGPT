@@ -215,3 +215,4 @@ test-screenshots/
 
 # Supabase CLI machine-local state (linked project ref, etc.)
 supabase/.temp/
+.env
