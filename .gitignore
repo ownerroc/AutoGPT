@@ -6,6 +6,11 @@ auto_gpt_workspace/*
 .autogpt/
 *.mpeg
 .env
+
+# Secrets
+.env*
+*.vault
+gitleaks.toml
 # Root .env files
 /.env
 azure.yaml
