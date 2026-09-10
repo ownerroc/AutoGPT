@@ -173,6 +173,14 @@ classic/direct_benchmark/.benchmark_workspaces/
 
 # Nodejs
 package-lock.json
+package.json
+pnpm-lock.yaml
+yarn.lock
+
+# Termux home directory (sensitive local data)
+/data/
+/storage/
+/root/
 
 
 # Allow for locally private items
